@@ -1,4 +1,6 @@
-# PID-Controller-for-a-DC-Motor-Arduino
+# PID Controller for a DC Motor - Arduino
+
+PID Controller for a DC motor using an arduino microcontroller, a battery, a magnetic encoder, and an H-Bridge to control the voltage provided to the motor.
 
 ## Table of Contents
 
@@ -7,31 +9,44 @@
 
 
 ## Kp, Ki, and Kd parameters tuning
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/d947a58d-5b13-4b74-a4f0-d2a748bbc7b9)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/f71c7723-4401-445c-b083-9db6cfa1930e)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/24979e1b-611d-4751-8908-fd400960c78e)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/f062e884-1cb2-4452-b1a8-875a4a4c275d)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/d192fa76-e69d-49f4-8486-1c419d82d1fe)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/1d795f3f-5744-4b87-8b65-89c5ba7e2e17)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/587cff80-767d-4af4-8030-9e9b2efa8e3c)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/968bf757-7847-4905-85d4-f56c591a70af)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/0575dec8-248b-4816-bc4c-1ecdc31bde7e)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/2e68b1e3-e800-4e27-a692-92a9922f6d76)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/a37d1b97-0f04-44a1-934e-64ebad62bb0d)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/2b5c8acb-9ad7-4015-b672-da209aa59e47)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/0405fa6b-bb08-4833-a54b-cf890d8a80df)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/ad1c5a9c-5960-4964-82e5-737fd0a7fe08)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/834d6013-7434-424e-8eb7-4b0a98783886)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/702b0ada-8cb3-4fc9-a379-429dc613459e)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/9d91dfac-417e-4313-8fbd-34f3d3aeb633)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/9f2ed951-acd6-428f-9d44-32181ce18fe7)
-![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/6dc22459-9966-4a61-ac16-d2ccf38090f2)
 
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/4f9abdb4-3be6-49c9-a53b-e878c37b40aa)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/e7d365ce-3a7b-48b1-87d7-354cc9168082)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/174fa779-3e44-4a5c-97fe-c4d1034a59ce)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/e6bc0643-cd07-45c0-a5de-6efa18d6243d)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/a8d5502c-6714-4d29-968a-bde04102517c)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/0099f334-53aa-4871-99cb-c30ab0fb5eda)
 
+---
+<br></br>
+---
 
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/b8c5ecf4-a170-411f-8748-7d59cd219b03)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/db00dbf0-b3cc-4662-a8c8-3ce658989699)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/7c9f3196-5a8e-4eb1-8b5d-d3ee7da22773)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/cf7520bd-ff47-4db6-a9f8-70a3eaa1e7cd)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/fc4ddc4b-a39b-4d20-8f69-1036eba1f694)
+
+---
+<br></br>
+---
+
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/64b10c75-e97f-46d2-a911-9ac5eeab4a3f)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/3e922e4f-c15c-4dbd-82b7-f87b8fd09e8f)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/ef0d8a9e-18bf-4694-968f-6f87b7f12fae)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/f7fd4515-7506-498f-8821-666063605b33)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/9442c0e3-e280-4220-b064-c1fa0136eab5)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/060116ab-dbc3-44ee-a818-462e0e517458)
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/e63d1b21-c3a6-4a62-9806-81ea9d010db3)
+
+---
+<br></br>
+---
+
+![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/80c17317-18b8-42ff-bfcb-78d149b55d9a)
 
 
 ## Working Video
 You can watch the project working irl here:
 <br></br>
-[![Video](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/c0f0f959-b5a8-4039-8685-af127de624b9)](https://www.youtube.com/watch?v=Iu1TOB3uQ0c)
+[![Video](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/7259b942-81e0-4f4d-b055-385743abe5c6)](https://www.youtube.com/watch?v=Iu1TOB3uQ0c)
