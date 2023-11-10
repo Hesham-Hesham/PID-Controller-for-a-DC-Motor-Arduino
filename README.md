@@ -49,4 +49,9 @@ PID Controller for a DC motor using an arduino microcontroller, a battery, a mag
 ## Working Video
 You can watch the project working irl here:
 <br></br>
-[![Video](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/7259b942-81e0-4f4d-b055-385743abe5c6)](https://www.youtube.com/watch?v=Iu1TOB3uQ0c)
+
+[![IMAGE ALT TEXT](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/7259b942-81e0-4f4d-b055-385743abe5c6)](https://www.youtube.com/watch?v=Iu1TOB3uQ0c)
+
+[![PID controller for motors using arduino
+](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/7259b942-81e0-4f4d-b055-385743abe5c6)](https://www.youtube.com/watch?v=Iu1TOB3uQ0c "PID controller for motors using arduino
+")
