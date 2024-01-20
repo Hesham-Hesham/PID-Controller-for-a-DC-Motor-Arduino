@@ -4,9 +4,15 @@ PID Controller for a DC motor using an arduino microcontroller, a battery, a mag
 
 ## Table of Contents
 
-- [Kp, Ki, and Kd parameters tuning](#Kp,-Ki,-and-Kd-parameters-tuning)
 - [Working Video](#working-Video)
+- [Kp, Ki, and Kd parameters tuning](#Kp,-Ki,-and-Kd-parameters-tuning)
 
+
+
+## Working Video
+You can watch the project working irl : [HERE](https://www.youtube.com/watch?v=Iu1TOB3uQ0c)
+
+---
 
 ## Kp, Ki, and Kd parameters tuning
 
@@ -46,6 +52,4 @@ PID Controller for a DC motor using an arduino microcontroller, a battery, a mag
 ![image](https://github.com/Hesham-Hesham/PID-Controller-for-a-DC-Motor-Arduino/assets/91581641/80c17317-18b8-42ff-bfcb-78d149b55d9a)
 
 
-## Working Video
-You can watch the project working irl : [HERE](https://www.youtube.com/watch?v=Iu1TOB3uQ0c)
 
